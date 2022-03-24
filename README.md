@@ -1,9 +1,9 @@
-# 稷之下
+# wisesliu
 
 <p align="center">
 <img src="https://docsify.js.org/_media/icon.svg" width="200" height="200"/>
 </p>
-<h1 align="center">稷之下</h1>
+<h1 align="center">wisesliu</h1>
 
 ### 作者介绍
 
