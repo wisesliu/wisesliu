@@ -1,6 +1,6 @@
 - **Java基础**
 - [![](https://icongr.am/simple/oracle.svg?size=25&color=231c82&colored=false)JVM](java/JVM/readJVM.md)
-  - [JVM 与 Java 体系结构](java/JVM/JVM-Java.md)
+  - [JVM详解](java/JVM/Thread.md)
   - [类加载子系统](java/JVM/Class-Loading.md)
   - [运行时数据区](java/JVM/Runtime-Data-Areas.md)
   - [垃圾收集器](java/JVM/GC.md)
