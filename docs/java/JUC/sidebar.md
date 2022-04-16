@@ -1,5 +1,7 @@
 - **Java基础**
 - [![](https://icongr.am/simple/oracle.svg?size=25&color=231c82&colored=false)JVM](java/JVM/readJVM.md)
+- [![](https://icongr.am/devicon/java-original.svg?size=25&color=f23131)集合](java/Collections/readCollection.md)
+- [![](https://icongr.am/devicon/java-original.svg?size=25&color=f23131)线程](java/Thread/readThread.md)
 - [![img](https://icongr.am/fontawesome/expeditedssl.svg?size=25&color=f23131)JUC](java/JUC/readJUC.md)
   - [JMM](java/JUC/Java-Memory-Model.md)
   - [阻塞队列](java/JUC/BlockingQueue.md)
