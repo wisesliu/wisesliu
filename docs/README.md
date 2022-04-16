@@ -1,4 +1,4 @@
-### Wisesliu
+### wisesliu
 
 <p>
 <br >
@@ -9,6 +9,7 @@
 <a href="https://blog.csdn.net/thinkwon/category_9731418.html"><img src="https://img.shields.io/badge/CSDN-@大新之助-fd6f32.svg?style=flat&colorA=B22222"></a>
 </p>
 
+### 独白
 > 学技术，最重要的不是怎么学，而是开始学
 >
 > 多少有志青年，想得太多，做的太少，没开始时，在“学什么”中纠结，开始之后，在“怎么学”中迷茫
@@ -21,11 +22,21 @@
 
 
 
-### ToDoList
+### 精选推荐
 
-- [x] OOM
-- [ ] Kafka 系列文章
+- [x] Java基础
+- [ ] RabbitMq,Kafka 系列文章
+- [x] Spring Cloud Alibaba
+- [x] Linux，Docker
+- [x] 分布式存储：Minio，FastDfs
 
-> 作为一个深耕在互联网公司的 Java 码农，在准备换坑的时候，才发现这么些年都没有一个对所学知识的整理，所以就整理下之前的笔记和一些正在学习的内容。
+### 备用地址
+[戳我一下](https://wisesliu.github.io/wisesliu)
 
-![](https://imgkr.cn-bj.ufileos.com/6e7c80a9-48e6-4a2a-b920-682d8f0bab5c.png)
+### 结语 
+> 作为一个深耕在互联网公司的 Java 码农，在准备换坑的时候，才发现这么些年都没有一个对所学知识的整理，所以就整理下之前的笔记和一些正在学习的内容。**文档持续更新中，欢迎骚扰！**
+
+<p align="center">
+<img src="https://docsify.js.org/_media/icon.svg" width="200" height="200"/>
+</p>
+<h1 align="center">wisesliu</h1>
